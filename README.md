@@ -44,6 +44,13 @@ Este projeto consiste em um sistema de controle de tomada utilizando um microcon
 Veja o sistema em ação neste vídeo:
 
 
+https://github.com/WesleyS08/EcoSocket/assets/113936684/1dda0286-cee3-4d18-8716-514b48f9d2ff
+
+
+![Demo](img/IMG_20240518_143711_006_LL.jpg)
+
+![Demo](img/IMG_20240518_143718_002_HDR.jpg)
+
 ## Contribuição 🤝
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para sugestões de melhorias ou novas funcionalidades.
